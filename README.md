@@ -1,4 +1,4 @@
 # Social-links-profile
 This is practice responsive "Social Links Profile" created using HTML and CSS.
 
-Sameer Mandve
+Challenge from FrontendMentor & Created by Sameer Mandve
